@@ -7,7 +7,7 @@
 
 ## Summary
 
-The $Alpha Dragon creators are seeking candidates to direct future development. Specifically data analysts and blockchain engineers who are interested in token analytics and developing a community. The codebase, project assets, and administration of the project token will be given to the incoming team.
+The $Alpha Dragon creators are seeking candidates to direct future development. Specifically data analysts and blockchain engineers who are interested in token analytics and building a community. The codebase, project assets, and administration of the project token will be given to the incoming team.
 
 Assets include:
 
@@ -26,7 +26,7 @@ Assets include:
 
 Dragon is a browser extension that serves as a token analytics companion while trading. The core thesis is that noisy token data can be recomposed via modular analytics to reveal meaningful volume signals. This contrasts with the current Web3 landscape where token data is scattered across dashboards and platforms that over stimulate users with too much information.
 
-The project creators are retail consumers who built a prototype and project asset package after their experiences trading memecoins. A future direction for the project explores how AI can identify patterns in modular token analytics to discover new forms of "alpha" using data.
+The project creators are retail traders who built a prototype and project asset package after their experiences trading memecoins. A future direction for the project explores how AI can identify patterns in modular token analytics to discover new forms of "alpha" using data.
 
 ---
 
