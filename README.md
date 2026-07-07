@@ -7,7 +7,7 @@
 
 ## Summary
 
-The $Alpha Dragon creators are seeking candidates to direct future development. Specifically data analysts and blockchain engineers who are interested in token analytics and building a community. The codebase, project assets, and administration of the project token will be given to the incoming team.
+The $Alpha Dragon creators are seeking candidates to direct future development, specifically data analysts and blockchain engineers who are interested in token analytics and building a community. The codebase, project assets, and administration of the project token will be given to the incoming team.
 
 
 ---
