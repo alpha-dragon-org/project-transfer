@@ -9,16 +9,6 @@
 
 The $Alpha Dragon creators are seeking candidates to direct future development. Specifically data analysts and blockchain engineers who are interested in token analytics and building a community. The codebase, project assets, and administration of the project token will be given to the incoming team.
 
-Assets include:
-
-- [Live browser extension](https://chromewebstore.google.com/detail/dragon/ncbgllgbplhnbekllhogabdefjidbkoe)
-- [GitHub organization](https://github.com/alpha-dragon-org)
-- [Website](https://alpha-dragon.ai/)
-- [Open-source sandbox](https://alpha-dragon.ai/playground/)
-- [Vision paper](https://alpha-dragon.ai/alphadragon.pdf)
-- [Telegram community](https://t.me/alphadragontg)
-- [X account](https://x.com/AlphaDragonAI)
-- [Community token](https://www.clanker.world/clanker/0x0233d2c84143933DDFbd4A977960b0ba8EF0DB07) launched on Clanker
 
 ---
 
@@ -35,6 +25,18 @@ The project creators are retail traders who built a prototype and project asset 
 There is no formal application process. The project creators will chat with any interested developers to explore ideas, backgrounds, and future directions.
 
 As the new team is onboarded, the project Safes will expand to include the new signatures. The project creators and the incoming team will reach an agreed creator fee cap, after which all project governance, technical infrastructure, repositories, community accounts, and project credentials will be transferred over.
+
+
+Assets include:
+
+- [Live browser extension](https://chromewebstore.google.com/detail/dragon/ncbgllgbplhnbekllhogabdefjidbkoe)
+- [GitHub organization](https://github.com/alpha-dragon-org)
+- [Website](https://alpha-dragon.ai/)
+- [Open-source sandbox](https://alpha-dragon.ai/playground/)
+- [Vision paper](https://alpha-dragon.ai/alphadragon.pdf)
+- [Telegram community](https://t.me/alphadragontg)
+- [X account](https://x.com/AlphaDragonAI)
+- [Community token](https://www.clanker.world/clanker/0x0233d2c84143933DDFbd4A977960b0ba8EF0DB07) launched on Clanker
 
 ---
 
