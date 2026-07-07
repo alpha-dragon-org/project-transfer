@@ -27,7 +27,7 @@ There is no formal application process. The project creators will chat with any 
 As the new team is onboarded, the project Safes will expand to include the new signatures. The project creators and the incoming team will reach an agreed creator fee cap, after which all project governance, technical infrastructure, repositories, community accounts, and project credentials will be transferred over.
 
 
-Assets include:
+Project assets include:
 
 - [Live browser extension](https://chromewebstore.google.com/detail/dragon/ncbgllgbplhnbekllhogabdefjidbkoe)
 - [GitHub organization](https://github.com/alpha-dragon-org)
