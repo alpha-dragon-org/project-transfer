@@ -37,6 +37,7 @@ Assets include:
 - [Telegram community](https://t.me/alphadragontg)
 - [X account](https://x.com/AlphaDragonAI)
 - [Community token](https://www.clanker.world/clanker/0x0233d2c84143933DDFbd4A977960b0ba8EF0DB07) launched on Clanker
+- [Project fee Safe](https://basescan.org/address/0xE4f20aAeA534690ce3Cb78B9a4Baa2a2811DA0ba) and [Token vault Safe](https://basescan.org/address/0x4e50968Be657436C428107b03C0F9F324f02e689)
 
 ---
 
