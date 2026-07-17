@@ -7,16 +7,16 @@
 
 ## Summary
 
-The $Alpha Dragon creators are seeking candidates to direct future development, specifically data analysts and blockchain engineers with an interest in token analytics and building community. The codebase, project assets, and administration of the project token will be given to the incoming team.
+The $Alpha Dragon creators are seeking candidates to take over development: data analysts and blockchain engineers with an interest in building community. All codebase, project assets, and administration of the token will be given to the incoming team.
 
 
 ---
 
 ## $Alpha Dragon
 
-Dragon is a browser extension that serves as a token analytics companion while trading. Its core thesis is that noisy token data can be recomposed using modular analyses to reveal meaningful volume signals. This contrasts with the current Web3 landscape where token data is scattered across dashboards and platforms that over stimulate users with too much information.
+Dragon is a browser extension that serves as a token analytics companion while trading. The thesis is that the sea of token data can be recomposed using independent analyses that reveal meaningful volume signals. This contrasts with the current norm where token data is scattered across dashboards and platforms that over stimulate users with too much information.
 
-The project creators are retail traders who built a prototype and project asset package after their experiences trading memecoins. A future direction for the project explores how AI can identify patterns in modular token analytics to discover new forms of "alpha" using data.
+The project creators are retail traders who built this prototype and project assets after their experiences trading memecoins. A future direction explores how AI can identify patterns in modular token analytics to discover new forms of "alpha" using data.
 
 ---
 
@@ -24,7 +24,7 @@ The project creators are retail traders who built a prototype and project asset 
 
 There is no formal application process. The project creators will chat with any interested developers to explore ideas, backgrounds, and future directions.
 
-As the new team is onboarded, the project Safes will expand to include the new signatures. The project creators and the incoming team will reach an agreed creator fee cap, after which all project governance, technical infrastructure, repositories, community accounts, and project credentials will be transferred over.
+The project Safes will expand to include new signatures and the project creators will agree on a fee cap, after which all governance, infrastructure, repositories, and community accounts will be transferred over.
 
 
 Project assets include:
