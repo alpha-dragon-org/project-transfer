@@ -23,7 +23,7 @@ The project creators are simple retail traders who built the prototype and other
 
 The project creators are open to any interested developers who want to explore ideas, backgrounds, and possible directions.
 
-The project token vault and trading fees currently route to Safes managed by the project creators. These Safes will expand to include the new project developers after selection and the creators will phase out after an agreed fee cap is reached. All governance, infrastructure, repositories, and community accounts will also be transferred over to the new development team.
+The project token vault and trading fees currently route to Safes managed by the project creators. These Safes will expand to include the new project developers and the creators will phase out after an agreed fee cap is reached. All governance, infrastructure, repositories, and community accounts will also be transferred over to the new development team.
 
 
 Project assets include:
