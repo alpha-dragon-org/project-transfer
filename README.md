@@ -1,20 +1,19 @@
 # $Alpha Dragon
-### Project Transfer
 
 **Website:** https://alpha-dragon.ai
 
 ---
 
-## Summary
+## Request Summary
 
-The $Alpha Dragon creators are seeking candidates to take over development: data analysts and blockchain engineers with an interest in building community. All codebase, project assets, and administration of the token will be given to the incoming team.
+The $Alpha Dragon creators are seeking candidates to take over project development: data analysts and blockchain engineers with an interest in building community for an open source trading companion. All codebase, project assets, and administration of the token will be given to the incoming team.
 
 
 ---
 
-## $Alpha Dragon
+## What is $Alpha Dragon?
 
-Dragon is a browser extension that serves as a token analytics companion while trading. The thesis is that the sea of token data can be recomposed using independent analyses that reveal meaningful volume signals. This contrasts with the current norm where token data is scattered across dashboards and platforms that over stimulate users with too much information.
+Dragon is a browser extension that serves as a token analytics companion while trading. The thesis is that token data can be decomposed into independent analyses that reveal meaningful volume signals. Token data is currently too scattered across internet dashboards and platforms that overwhelm users with information.
 
 The project creators are retail traders who built this prototype and project assets after their experiences trading memecoins. A future direction explores how AI can identify patterns in modular token analytics to discover new forms of "alpha" using data.
 
