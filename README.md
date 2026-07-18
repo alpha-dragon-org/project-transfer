@@ -22,7 +22,7 @@ The project creators are simple retail traders who built the prototype and other
 
 The project creators are open to any interested developers who want to explore ideas, backgrounds, and future directions.
 
-The project Safes will expand to include any new project administrators after discussion, and the project creators will settle on a fee cap before leaving the project. All governance, infrastructure, repositories, and community accounts will be transferred over to the new development team.
+The project Safes will expand to include the new project developers and the project creators will settle on a fee cap before leaving. All governance, infrastructure, repositories, and community accounts will be transferred over to the new development team.
 
 
 Project assets include:
