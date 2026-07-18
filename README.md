@@ -20,9 +20,9 @@ The project creators are simple retail traders who built the prototype and other
 
 ## Project Transfer
 
-There is no formal application process. The project creators will chat with any interested developers to explore ideas, backgrounds, and future directions.
+The project creators are open to any interested developers who want to explore ideas, backgrounds, and future directions.
 
-The project Safes will expand to include new signatures and the project creators will agree on a fee cap, after which all governance, infrastructure, repositories, and community accounts will be transferred over.
+The project Safes will expand to include any new project administrators after discussion, and the project creators will settle on a fee cap before leaving the project. All governance, infrastructure, repositories, and community accounts will be transferred over to the new development team.
 
 
 Project assets include:
