@@ -8,11 +8,13 @@ The $Alpha Dragon creators are seeking candidates to take over project developme
 
 ---
 
-## What is $Alpha Dragon?
+## What is Dragon?
 
-Dragon is a browser extension that serves as a token analytics companion while trading. The thesis is that token data can be decomposed into independent analyses that reveal meaningful volume signals. Token data is currently too scattered across internet dashboards and platforms that overwhelm users with information.
+Dragon is a browser extension that serves as a token analytics companion while trading. The thesis is that token data can be decomposed into independent analyses (called data modules) that reveal meaningful volume signals. Token data is currently too scattered across internet dashboards and platforms that overwhelm users with information.
 
-The project creators are retail traders who built this prototype and project assets after their experiences trading memecoins. A future direction explores how AI can identify patterns in modular token analytics to discover new forms of "alpha" using data.
+The project creators are simple retail traders who built the prototype and other assets after their experiences trading memecoins. There is currently a working prototype, a shell extension for local development, and an open source workspace ready to receive developer contributions. 
+
+<img width="613" height="343" alt="Screenshot 2026-07-18 at 12 13 32 PM" src="https://github.com/user-attachments/assets/c9581958-56f4-49db-b75e-359917c9e113" />
 
 ---
 
