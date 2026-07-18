@@ -2,9 +2,6 @@
 
 **Website:** https://alpha-dragon.ai
 
----
-
-## Request Summary
 
 The $Alpha Dragon creators are seeking candidates to take over project development: data analysts and blockchain engineers with an interest in building community for an open source trading companion. All codebase, project assets, and administration of the token will be given to the incoming team.
 
