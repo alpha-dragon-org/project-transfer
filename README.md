@@ -3,7 +3,7 @@
 **Website:** https://alpha-dragon.ai
 
 
-The $Alpha Dragon creators are seeking candidates to take over project development: data analysts and blockchain engineers with an interest in building community for an open source trading companion. All codebase, project assets, and administration of the token will be given to the incoming team.
+The $Alpha Dragon creators are seeking candidates to take over project development. We are looking for data analysts and blockchain engineers with an interest in building community for an open source trading companion. The codebase, project assets, community accounts, and the project token's fee and vault controls will be transferred to the incoming team.
 
 
 ---
@@ -21,7 +21,7 @@ The project creators are simple retail traders who built the prototype and other
 
 ## Project Transfer
 
-The project creators are open to any interested developers who want to explore ideas, backgrounds, and future directions.
+The project creators are open to any interested developers who want to explore ideas, backgrounds, and possible directions.
 
 The project token vault and trading fees currently route to Safes managed by the project creators. These Safes will expand to include the new project developers after selection. All governance, infrastructure, repositories, and community accounts will also be transferred over to the new development team.
 
